@@ -22,4 +22,4 @@ This repository contains two Java programs:
 - Develope By [Megha Khairnar]
 
 ## License
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License]
