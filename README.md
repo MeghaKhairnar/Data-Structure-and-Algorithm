@@ -18,8 +18,7 @@ This repository contains two Java programs:
 - Run the program: `java SetOperation`
 - Follow the menu prompts to perform operations like adding elements to sets, deleting elements from sets, displaying elements in sets, searching for elements in sets, calculating set sizes, finding unions, intersections, differences, and checking subsets.
 
-## Contributors
-- Develope By [Megha Khairnar]
 
-## License
-This project is licensed under the [MIT License]
+- Create By [Megha Khairnar]
+
+
