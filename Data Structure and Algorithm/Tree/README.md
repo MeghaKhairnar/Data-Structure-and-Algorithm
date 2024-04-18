@@ -47,6 +47,4 @@ The `Threaded` class implements a threaded binary tree (TBT), where threads are 
 2. Run the compiled `Threaded` class file.
 3. Follow the prompts to create a threaded binary tree and choose from the menu options to display the tree in inorder or preorder traversal.
 
-## Contributing
-Contributions are welcome! If you'd like to improve the existing implementations, add new features, or fix bugs, please feel free to open a pull request.
 
